@@ -75,7 +75,7 @@ Please see below the schedule of the lectures and lab sessions, and the calendar
 |:----:|:--------:|:-------:|:----:|:----:|:-------:|:------------:|:------|:---------:|
 | 46 | 0.0 | | | | | Lab session | L0: Basics of python and data analysis | [Lab session 0](Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 | 46 | 1.1 | Monday | 09/11/2026 | 15:45 - 17:45 | Sander | Oral lecture | LOs, Set-up, Scope, Planning, Expectations; What is ML? | |
-| 46 | 1.2 | Tuesday | 10/11/2026 | 15:45 - 17:45 | Sander | Oral lecture | Model dev & performance metrics (shortened), Decision Trees, Regression, Geospatial data | |
+| 46 | 1.2 | Tuesday | 10/11/2026 | 15:45 - 17:45 | Sander | Oral lecture | Model dev & performance metrics (shortened) & Decision Trees | |
 | 46 | L1 | Thursday | 12/11/2026 | 08:45 - 10:45 | Francisco | Lab session | Discover, explore and visualise data of liveability in the Netherlands | [Lab session 1](Lab_sessions/lab_session_01/lab_session_01.ipynb) |
 | 47 | 1.3 | Monday | 16/11/2026 | 15:45 - 17:45 | Sander | Oral lecture | ANNs; training; tuning; k-fold | |
 | 47 | 1.4 | Tuesday | 17/11/2026 | 15:45 - 17:45 | Sander | Oral lecture | Ensembles; Random forest; XGBoost | |
