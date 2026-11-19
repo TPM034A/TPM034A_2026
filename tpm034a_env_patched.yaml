@@ -1,0 +1,51 @@
+name: tpm034a
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  # Python & Base tools
+  - python=3.13
+  - pip
+  - setuptools
+  - wheel
+
+  # Interactive & Jupyter Environment
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - ipympl
+  - jupyter
+  - jupyterlab
+  - notebook
+  - nbclient
+  - nbconvert
+  - nbformat
+
+  # Core Data & Plotting
+  - numpy=2.4
+  - pandas=3.0
+  - scipy=1.18
+  - matplotlib=3.11
+  - seaborn=0.13
+  - pillow
+  - openpyxl
+
+  # Geospatial & ML Stack
+  - cloudpickle
+  - dill
+  - geopandas=1.1
+  - shapely=2.1
+  - folium
+  - branca
+  - contextily
+  - mapclassify
+  - scikit-learn=1.9
+  - scikit-image
+  - xgboost
+  - pytorch=2.12
+  - torchvision
+  - transformers
+  - opencv
+  - shap
+  - interpret
+  - ultralytics
