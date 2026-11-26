@@ -107,8 +107,8 @@ The course has five lab sessions. The lab sessions and answers will be available
 |:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
 |  0   | Lab 0       | ✅ [Available](Lab_sessions/lab_session_00/lab_session_00.ipynb) | ✅ [Available](Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |  46  | Lab 1       | ✅ [Available](Lab_sessions/lab_session_01/lab_session_01.ipynb)| ✅ [Available](Lab_solutions/lab_session_01/lab_session_01.ipynb) |
-|  47  | Lab 2       | ✅ [Available](Lab_sessions/lab_session_02/lab_session_02.ipynb) | 26/11/2026 |
-|  48  | Lab 3       | 26/11/2026 | 03/12/2026 |
+|  47  | Lab 2       | ✅ [Available](Lab_sessions/lab_session_02/lab_session_02.ipynb) | ✅ [Available](Lab_solutions/lab_session_02/lab_session_02.ipynb) |
+|  48  | Lab 3       | ✅ [Available](Lab_sessions/lab_session_03/lab_session_03.ipynb) | 03/12/2026 |
 |  49  | Lab 4       | 03/12/2026 | 08/12/2026 |
 |  50  | Lab 5       | 08/12/2026 | 09/12/2026 |
 
